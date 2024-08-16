@@ -1,0 +1,217 @@
+#d0{
+
+
+    background-color: bisque;
+}
+
+
+
+
+#d1{
+
+    height: 1500px;
+    width: 1500px;
+    background-color: bisque;
+    
+}
+
+#d2{
+
+    height: 300px;
+    width: 1600px;
+    margin-left: 20px;
+}
+
+#d5{
+     
+background-color: bisque;
+height: 150px;
+width: 150px;
+
+}
+
+#d41{
+
+    display: flex;
+    text-align: center;
+   margin-left: 15px;
+    margin-top: 20px;
+}
+
+#d42{
+
+
+    margin: top 50px;
+    margin-left: 1100px;
+
+
+
+
+
+}
+#d4{
+
+    display: flex;
+    justify-content:center;
+    transition: property all 0.5s ease-in-out 0s;
+    margin-left: 0px;
+    width: 1600px;
+   
+
+}
+
+#d4:hover{
+
+    background-color: whitesmoke;
+    font-size:xx-large;
+    color: green;
+}
+
+#d6{
+
+    display: flex;
+    justify-content:space-between;
+    margin-top: 40px;
+   font-size: x-large;
+   margin-bottom: 50px;
+}
+
+#d7{
+
+    
+    height: 700px;
+    width: 1500px;
+    background-color: bisque;
+}
+
+#d8{
+    
+    font-size:x-large;
+    text-align: center;
+    transition: property all 0.5s ease-in-out;
+}
+
+#d9{
+    background-color:bisque;
+    text-align: center;
+    width: 740px;
+    font-size: large;
+    transition: property all 0.5s ease-in-out 0s;
+    margin-left: 370px;
+
+}
+
+#d10{
+    font-size:x-large;
+    text-align: center;
+    transition: property all 0.5s ease-in-out 0s;
+
+
+
+}
+
+
+#d11{
+
+     
+     background-color:bisque;
+     text-align: center;
+     width: 740px;
+     font-size: large;
+     transition: property all 0.5s ease-in-out 0s;
+
+}
+
+
+#d12{
+    font-size:x-large;
+    text-align: center;
+    transition: property all 0.5s ease-in-out 0s;
+
+
+}
+
+#d13{
+
+    margin-top: 20px;
+    margin-left: 375px;
+    width: 740px;
+    transition: property all 0.5s ease-in-out 0s;
+    text-align: center;
+    
+   
+}
+
+
+
+
+
+
+#d8:hover{
+
+    background-color: whitesmoke;
+    font-size:xx-large;
+    color: brown;
+   
+
+
+}
+
+#d9:hover{
+
+    background-color: whitesmoke;
+    font-size:xx-large;
+    color: green;
+   
+
+
+}
+
+#d10:hover{
+
+    background-color: whitesmoke;
+    font-size:xx-large;
+    color: brown;
+
+
+}
+
+#d11:hover{
+
+    background-color: whitesmoke;
+    font-size:xx-large;
+    color:green;
+   
+
+
+}
+
+#d12:hover{
+
+    background-color: whitesmoke;
+    font-size:xx-large;
+    color: brown;
+
+
+}
+
+#d13:hover{
+
+    background-color: whitesmoke;
+    font-size:xx-large;
+    color:green;
+   
+
+
+}
+
+
+#d91{
+
+
+    text-align: center;
+    font-size: x-large;
+    color: red;
+
+
+}

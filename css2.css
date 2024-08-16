@@ -1,0 +1,53 @@
+#d0{
+
+    background-color: bisque;
+}
+
+
+
+#d{
+
+
+    height: 250px;
+    width: 1500px;
+}
+
+#d1{
+
+    background-color: bisque;
+}
+#d2{
+    font-size: x-large;
+
+    text-align: center;
+    margin-top: 20px;
+    transition: property all 0.5s ease-in-out 0s;
+   
+}
+#d3{
+
+    margin-top: 20px;
+    margin-left: 375px;
+    width: 740px;
+    transition: property all 0.5s ease-in-out 0s;
+    text-align: center;
+}
+
+#d2:hover{
+
+    background-color: whitesmoke;
+    font-size:xx-large;
+    color: brown;
+   
+
+
+}
+#d3:hover{
+
+    background-color: whitesmoke;
+    font-size:x-large;
+    color: green;
+   
+
+
+}
